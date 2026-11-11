@@ -12,10 +12,10 @@
 🔭 My expertise covers both <strong>frontend</strong> and <strong>backend</strong> development. My current focus is on perfecting the art of <strong>Vue.js</strong>, a framework that <strong>has captured my heart and ignited my creativity.</strong> Although I am exploring new technologies to expand my knowledge and grow as a developer.
 </p>
 <p>
-🛠️ I’m currently working on Google Cloud Platform, Vue.js, Vuetify, Node.js, Express, Cypress, Docker, Jenkins, etc...
+🛠️ I’m currently working on Google Cloud Platform, Vue, React, Next, Nest, Node, Express, Cypress, Docker, Jenkins, etc...
 </p>
 <p>
-🌱 I'm always learning new things (right now I'm learning React, Flutter, IA, and MCP). <strong>Always learning, always moving forward.</strong>
+🌱 I'm always learning new things (right now I'm learning Flutter, IA, MCP and workflows like SDD or ODD). <strong>Always learning, always moving forward.</strong>
 </p>
 <p>
 📬 Let’s connect — I'm always open to new ideas, challenges, and building cool things together!
